@@ -1,0 +1,22 @@
+.centered-text {
+    text-align: center;
+}
+
+.coolbutton {
+    color: black;
+}
+
+.center {
+    margin: 0;
+    padding: 5%;
+    position: absolute;
+    left: 50%;
+    top: auto;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.below {
+    padding: 0;
+    padding-top: auto;
+}
